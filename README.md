@@ -1,12 +1,10 @@
-# 지구본 개인정보처리방침 — Git과 Google Sites 유지
+# 지구본 탐험 개인정보처리방침
 
-Git에는 방침 원문과 GitHub Pages 페이지를 보관하고, Google Sites 게시본도 함께 유지합니다. 방침 내용 변경 시 양쪽 본문을 같은 내용으로 갱신합니다.
+- [Google Sites 공개본](https://sites.google.com/view/world-globe-quiz-privacy)
+- [저장소의 한국어·영어 원문](privacy-policy-source.html)
+- [기존 GitHub Pages 주소](https://dooj.github.io/WorldGlobeQuiz-privacy/privacy.html)
+- [삭제 요청 안내](data-deletion.html)
 
-- GitHub Pages: https://dooj.github.io/WorldGlobeQuiz-privacy/privacy.html
-- Google Sites: https://sites.google.com/view/world-globe-quiz-privacy
-- 기존 방침 원문: privacy-policy-source.html
-- 삭제 요청 안내: data-deletion.html
+2026-11-10에 Google Sites 공개본을 대조해 한국어·영어 원문을 저장했다. 공개본 시행일은 2026-10-21이다. Firebase 이용 분석과 오류 진단, 전면 광고 빈도, 지원 이메일을 공개본과 동일하게 보관한다.
 
-2026-10-12 후속 요청: privacy.html을 자동 이동 페이지에서 원문 전체와 Google Sites 링크가 있는 페이지로 되돌릴 준비를 했습니다. **privacy.html 본문 준비 변경은 아직 커밋·푸시·배포하지 않았습니다. 이 README 운영 문서만 Git에 반영합니다.** 현재 공개된 기존 주소는 여전히 Google Sites로 자동 이동합니다. 다음 업데이트에서 양쪽 본문 유지 변경을 적용합니다.
-
-GitHub Pages 저장소는 푸시하면 공개 페이지가 갱신될 수 있으므로, 업데이트 적용 시점에 커밋·푸시하고 공개 본문을 확인합니다.
+기존 GitHub Pages의 `privacy.html`은 Google Sites로 연결한다. 공개 방침을 수정할 때는 저장소의 `privacy-policy-source.html`에도 같은 원문을 반영한다.
