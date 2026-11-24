@@ -7,4 +7,4 @@
 
 2026-11-10에 Google Sites 공개본을 대조해 한국어·영어 원문을 저장했다. 공개본 시행일은 2026-10-21이다. Firebase 이용 분석과 오류 진단, 전면 광고 빈도, 지원 이메일을 공개본과 동일하게 보관한다.
 
-기존 GitHub Pages의 `privacy.html`은 Google Sites로 연결한다. 공개 방침을 수정할 때는 저장소의 `privacy-policy-source.html`에도 같은 원문을 반영한다.
+기존 GitHub Pages의 `privacy.html`은 Google Sites로 연결한다. 공개 방침을 수정할 때는 저장소의 `privacy-policy-source.html`에도 같은 내용을 반영한다. 이 저장소의 공개 HTML에는 운영명 콜드루팡과 공식 지원 주소를 사용한다.
